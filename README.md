@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Nguyen Tran</h1>
+<h1 align="center">Nguyen Tran</h1>
 <h3 align="center">A passionate node js backend developer form USA</h3>
 
 - 🔭 I’m currently working on [Music Streaming Web Service](https://github.com/nguyjtra/music-web)
