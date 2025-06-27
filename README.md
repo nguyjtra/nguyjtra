@@ -1,6 +1,6 @@
 
 <h1 align="center">Nguyen Tran</h1>
-<h3 align="center"> node js backend developer form USA</h3>
+<h3 align="center"> developer</h3>
 
 - 🔭 I’m currently working on [Music Streaming Web Service](https://github.com/nguyjtra/music-web)
 
