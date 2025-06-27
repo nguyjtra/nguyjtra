@@ -8,6 +8,10 @@
 
 - 🦾 project completed [Task Management API Platform](https://github.com/nguyjtra/task-management)
 
+  🦾 project completed [GraphQL Article Management API ](https://github.com/nguyjtra/article_Api_graphQl)
+
+  🦾 project completed [Tour Management](https://github.com/nguyjtra/tours-project-using-MySQL)
+
 - 👨‍💻 All of my projects are available at [https://github.com/nguyjtra](https://github.com/nguyjtra)
 
 - 💬 Ask me about **Node js, express js or c++**
